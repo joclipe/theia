@@ -161,6 +161,8 @@
     "vscode-references-view": "https://open-vsx.org/api/ms-vscode/references-view/0.0.47/file/ms-vscode.references-view-0.0.47.vsix"
   },
   "dependencies": {
-    "@eclipse-emfcloud/theia-tree-editor": "^0.7.0-next.3da9d6a"
+    "@eclipse-emfcloud/theia-tree-editor": "^0.7.0-next.3da9d6a",
+    "domlext": "0.0.0",
+    "domlvalidator": "0.0.0"
   }
 }
