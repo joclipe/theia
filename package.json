@@ -85,7 +85,8 @@
   "workspaces": [
     "dev-packages/*",
     "packages/*",
-    "examples/*"
+    "examples/*",
+    "piacere/*"
   ],
   "theiaPluginsDir": "plugins",
   "theiaPlugins": {
