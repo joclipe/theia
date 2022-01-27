@@ -1,6 +1,6 @@
 import '@eclipse-emfcloud/theia-tree-editor/style/index.css';
 import '@eclipse-emfcloud/theia-tree-editor/style/forms.css';
-import '../../src/browser/style/editor.css';
+import './style/editor.css';
 
 import { CommandContribution, MenuContribution } from '@theia/core';
 import { LabelProviderContribution, NavigatableWidgetOptions, OpenHandler, WidgetFactory } from '@theia/core/lib/browser';

@@ -1,6 +1,6 @@
 import { injectable, inject } from '@theia/core/shared/inversify';
 import { Command, CommandContribution, CommandRegistry, MenuContribution, MenuModelRegistry, MessageService } from '@theia/core/lib/common';
-import { TREE_EDITOR_MAIN_MENU } from 'piacere/domlExt/lib/browser/example-file/example-file-contribution';
+import { TREE_EDITOR_MAIN_MENU } from '/workspace/theia/examples/domlExt/lib/browser/example-file/example-file-contribution';
 import { WorkspaceService } from '@theia/workspace/lib/browser/workspace-service';
 import { FileService } from '@theia/filesystem/lib/browser/file-service';
 import { FileDialogService, OpenFileDialogProps } from '@theia/filesystem/lib/browser';
