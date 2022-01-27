@@ -1,0 +1,26 @@
+{
+  "typeId": "commons_DOMLModel",
+  "modelname": "Example DOML",
+  "version": "0.1",
+  "id": "myDOML",
+  "application": [
+    {
+      "typeId": "application_ApplicationLayer"
+    }
+  ],
+  "infrastructure": [
+    {
+      "typeId": "infrastructure_InfrastructureLayer"
+    }
+  ],
+  "optimization": [
+    {
+      "typeId": "optimization_OptimizationLayer"
+    }
+  ],
+  "concretizations": [
+    {
+      "typeId": "concrete_ConcreteInfrastructure"
+    }
+  ]
+}
