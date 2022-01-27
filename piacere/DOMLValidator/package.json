@@ -17,7 +17,8 @@
     "fs": "0.0.1-security",
     "fs-extra": "^10.0.0",
     "http-https": "1.0.0",
-    "uri-js": "^4.4.1"
+    "uri-js": "^4.4.1",
+    "domlext": "0.0.0"
   },
   "devDependencies": {
     "rimraf": "^3.0.2",
